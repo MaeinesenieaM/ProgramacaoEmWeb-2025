@@ -20,7 +20,7 @@ let a4 = 50;
 let b4 = 2;
 let resultado4 = a4 / b4;
 
-console.log(`Resultado de ${operacoes.adicao} entre ${a1} e ${b1} = ${resultado1}`);
-console.log(`Resultado de ${operacoes.subtracao} entre ${a2} e ${b2} = ${resultado2}`);
-console.log(`Resultado de ${operacoes.multiplicao} entre ${a3} e ${b3} = ${resultado3}`);
-console.log(`Resultado de ${operacoes.divisao} entre ${a4} e ${b4} = ${resultado4}`);
+console.log(`Resultado da ${operacoes.adicao} entre ${a1} e ${b1} = ${resultado1}`);
+console.log(`Resultado da ${operacoes.subtracao} entre ${a2} e ${b2} = ${resultado2}`);
+console.log(`Resultado da ${operacoes.multiplicao} entre ${a3} e ${b3} = ${resultado3}`);
+console.log(`Resultado da ${operacoes.divisao} entre ${a4} e ${b4} = ${resultado4}`);
