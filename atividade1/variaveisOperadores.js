@@ -1,3 +1,5 @@
+//Por David Costa Gomes UC23200191
+
 let operacoes = [];
 operacoes.adicao = "adição";
 operacoes.subtracao = "subtração";
