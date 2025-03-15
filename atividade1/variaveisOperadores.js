@@ -25,5 +25,3 @@ calcular(num_a, num_b, operador.adicao);
 calcular(num_a, num_b, operador.subtracao);
 calcular(num_a, num_b, operador.multiplicao);
 calcular(num_a, num_b, operador.divisao);
-
-
